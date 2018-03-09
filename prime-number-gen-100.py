@@ -1,4 +1,4 @@
-# Print Primesnumbers up to 'n'
+# Print Prime numbers up to 'n'
 def prime(n):
 	for y in range(2, n):
 		for x in range(2, y):
